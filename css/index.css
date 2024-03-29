@@ -1,0 +1,37 @@
+body {
+    background-color: #121212;
+}
+
+.Titulo {
+    margin: 0px;
+    font-size: 100px;
+    color: #eeeeee;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    text-align: center;
+}
+
+.Card {
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.Card img {
+    width: 300px;
+    border-radius: 25px;
+    
+}
+
+.Card-Mestra {
+    text-align: center;
+}
+
+.Classi {
+    font-size: xxx-large;
+    color: #eeeeee;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
